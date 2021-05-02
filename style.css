@@ -1,0 +1,39 @@
+*{
+padding:0;
+margin:0;
+}
+.card{
+    background-color : gray;
+    padding:40px;
+    width:300px;
+
+}
+
+body{
+    display: flex;
+    height: 100vh;
+    align-items: center;
+    justify-content: center;
+    background-image: url("https://images.wallpaperscraft.com/image/gradient_iridescent_lines_135691_3840x2160.jpg");
+    
+
+}
+
+h3{
+    color: grey
+}
+
+h1{
+    font-size: 3.5rem;
+    padding: 10px 0;
+}
+
+.info{
+    margin-top: 70px;
+
+}
+
+    h4{
+       margin-bottom: 10px ;
+    }
+    
